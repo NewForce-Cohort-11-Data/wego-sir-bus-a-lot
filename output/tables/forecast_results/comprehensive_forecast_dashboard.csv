@@ -1,0 +1,10 @@
+Scenario,OnTime_Pct,Category,Feasibility,Improvement
+Route Focus 75%,88.50022575628354,Route Focus,Low,8.807372344412599
+Combined Strategy,87.5,Combined,Low,7.807146588129058
+Route Focus 50%,85.56443497481268,Route Focus,Medium,5.871581562941742
+Route Focus 25%,82.62864419334181,Route Focus,Medium,2.935790781470871
+Seasonal Forecast,80.46393531826517,Time Series,High,0.7710819063942296
+Current Baseline,79.69285341187094,Baseline,Current,0.0
+Operator Aggressive,79.12220735785954,Operator Focus,Low,-0.5706460540114051
+Operator Moderate,78.86989966555184,Operator Focus,Medium,-0.8229537463191008
+Operator Conservative,78.65227424749163,Operator Focus,Medium,-1.0405791643793094

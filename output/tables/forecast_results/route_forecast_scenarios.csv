@@ -1,0 +1,4 @@
+Scenario,Description,Overall_OnTime_Pct,Underperforming_Avg_OnTime,Late_Trips_Reduced,Improvement_Points
+Route_Focus_25,25% reduction in late trips on underperforming routes,82.62864419334181,80.5106554107978,9948,2.935790781470871
+Route_Focus_50,50% reduction in late trips on underperforming routes,85.56443497481268,86.07121155166402,19896,5.871581562941742
+Route_Focus_75,75% reduction in late trips on underperforming routes,88.50022575628354,91.63176769253027,29844,8.807372344412599

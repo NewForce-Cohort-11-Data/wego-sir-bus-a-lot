@@ -1,0 +1,7 @@
+Scenario,Description,OnTime_Pct,Late_Trips,Late_Trips_to_Convert,Improvement_Points,Feasibility
+Current Baseline,Aug-Sep 2023 actual performance,79.69285341187094,59038.0,0,0.0,Baseline
+25% Late Reduction,Fix 1 in 4 late trips,84.04847415311883,44278.5,14759,4.35562074124789,Achievable
+50% Late Reduction,Fix 1 in 2 late trips,88.40409489436671,29519.0,29519,8.711241482495765,Challenging
+85% Target,Achieve 85% on-time performance,85.0,41054.15000000002,17983,5.307146588129058,Achievable
+90% Target,Industry benchmark performance,90.0,24111.099999999977,34926,10.307146588129058,Stretch Goal
+Route Focus Strategy,50% improvement on 4 underperforming routes,85.56443497481268,39141.5,19896,5.871581562941742,Strategic
